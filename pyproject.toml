@@ -27,6 +27,8 @@ dependencies = [
     "shapely>=2.0",
     "laspy[lazrs]>=2.5",
     "mapbox-earcut>=1.0",
+    "requests>=2.28",
+    "pyproj>=3.4",
 ]
 
 [project.optional-dependencies]
