@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BRG001",
+      "properties": {
+        "id": "BRG001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              22
+            ],
+            [
+              35,
+              22
+            ],
+            [
+              35,
+              30
+            ],
+            [
+              25,
+              30
+            ],
+            [
+              25,
+              22
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

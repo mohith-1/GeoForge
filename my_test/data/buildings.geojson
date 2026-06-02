@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BLD001",
+      "properties": {
+        "id": "BLD001",
+        "building_height": 14.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              10
+            ],
+            [
+              25,
+              10
+            ],
+            [
+              25,
+              22
+            ],
+            [
+              10,
+              22
+            ],
+            [
+              10,
+              10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD002",
+      "properties": {
+        "id": "BLD002",
+        "building_height": 8.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              10
+            ],
+            [
+              45,
+              10
+            ],
+            [
+              45,
+              20
+            ],
+            [
+              35,
+              20
+            ],
+            [
+              35,
+              10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD003",
+      "properties": {
+        "id": "BLD003",
+        "building_height": 22.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              55,
+              10
+            ],
+            [
+              75,
+              10
+            ],
+            [
+              75,
+              25
+            ],
+            [
+              55,
+              25
+            ],
+            [
+              55,
+              10
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD004",
+      "properties": {
+        "id": "BLD004",
+        "building_height": 6.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              35
+            ],
+            [
+              22,
+              35
+            ],
+            [
+              22,
+              43
+            ],
+            [
+              10,
+              43
+            ],
+            [
+              10,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD005",
+      "properties": {
+        "id": "BLD005",
+        "building_height": 10.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              35
+            ],
+            [
+              43,
+              35
+            ],
+            [
+              43,
+              43
+            ],
+            [
+              35,
+              43
+            ],
+            [
+              35,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD006",
+      "properties": {
+        "id": "BLD006",
+        "building_height": 12.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              60,
+              40
+            ],
+            [
+              70,
+              40
+            ],
+            [
+              70,
+              50
+            ],
+            [
+              60,
+              50
+            ],
+            [
+              60,
+              40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD007",
+      "properties": {
+        "id": "BLD007",
+        "building_height": 16.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              55
+            ],
+            [
+              28,
+              55
+            ],
+            [
+              28,
+              65
+            ],
+            [
+              10,
+              65
+            ],
+            [
+              10,
+              55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD008",
+      "properties": {
+        "id": "BLD008",
+        "building_height": 9.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45,
+              55
+            ],
+            [
+              57,
+              55
+            ],
+            [
+              57,
+              67
+            ],
+            [
+              45,
+              67
+            ],
+            [
+              45,
+              55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD009",
+      "properties": {
+        "id": "BLD009",
+        "building_height": 7.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70,
+              60
+            ],
+            [
+              78,
+              60
+            ],
+            [
+              78,
+              68
+            ],
+            [
+              70,
+              68
+            ],
+            [
+              70,
+              60
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLD010",
+      "properties": {
+        "id": "BLD010",
+        "building_height": 20.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20,
+              70
+            ],
+            [
+              30,
+              70
+            ],
+            [
+              30,
+              80
+            ],
+            [
+              20,
+              80
+            ],
+            [
+              20,
+              70
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
